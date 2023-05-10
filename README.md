@@ -1,11 +1,5 @@
 # Desktop Voice Assistant
-- [one](#one)
-- [two](#two)
-- [three](#three)
 
-# one
-# two
-# three
 A virtual assistant built to access desktop services which takes voice command as input and executes it.
 
  - Install the dependencies in a virtual environment (using conda or virtualenv) to avoid any issues. Use either pip2 or pip3 for python2 and python3 respectively.
